@@ -2,6 +2,9 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.3.
 
+Please before starting make sure you have the backend project mHealthProject https://github.com/dretp/mHealthProject   up and running so you're able to login and authnicate Please look at the readme for basic directions
+
+
 ## Development server
 
 To start a local development server, run:
@@ -51,6 +54,9 @@ For end-to-end (e2e) testing, run:
 ```bash
 ng e2e
 ```
+
+
+
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
