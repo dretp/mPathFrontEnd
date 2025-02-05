@@ -78,3 +78,8 @@ To log in, please use "admin" as the username. The password is provided below. T
     "username" : "user",
     "password" : "test123"
 }
+
+
+
+### routing to checkout the recommendation page
+Please use this routing http://localhost:4200/patient
