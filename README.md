@@ -63,3 +63,18 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+##Login the application
+To log in, please use "admin" as the username. The password is provided below. The admin has access to all health care data and endpoints, while user access is limited to their own data only, with no access to other endpoints.
+
+{
+    "username" : "admin",
+    "password" : "test456"
+}
+
+{
+    "username" : "user",
+    "password" : "test123"
+}
